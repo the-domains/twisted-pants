@@ -1,7 +1,6 @@
 ---
-datePublished: '2016-08-06T20:29:36.143Z'
+datePublished: '2016-08-06T20:37:20.955Z'
 sourcePath: _posts/2016-08-06-custom-painted-stand-up-paddle-board.md
-isBasedOnUrl: 'https://www.youtube.com/watch?v=b1pr0diJqHw'
 keywords:
   - duration
   - paddling
@@ -19,7 +18,7 @@ author:
     url: 'https://www.youtube.com/user/javkiss'
     avatar: {}
 via: {}
-dateModified: '2016-08-06T20:29:35.586Z'
+dateModified: '2016-08-06T20:37:20.625Z'
 title: Custom Painted Stand Up Paddle board
 app_links:
   - url: 'vnd.youtube://www.youtube.com/watch?v=b1pr0diJqHw&feature=applinks'
@@ -67,10 +66,9 @@ description: >-
   This started out as an old windsurf board from the 1980's, Repainted it to use
   as a stand up paddle board
 inLanguage: en
+hasPage: true
 starred: false
-inFeed: true
-hasPage: false
-inNav: false
+url: custom-painted-stand-up-paddle-board/index.html
 _context: 'http://schema.org'
 _type: VideoObject
 
