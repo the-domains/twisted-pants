@@ -4,7 +4,7 @@
         <description><![CDATA[My Creations]]></description>
         <link>https://thegrid.ai/twisted-pants/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 06 Aug 2016 20:58:30 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 06 Aug 2016 20:58:20 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/twisted-pants/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Surfer on a wave at 17th st Huntington Beach August 30th]]></title>
@@ -67,6 +67,13 @@
             <description><![CDATA[<article><h1>Food & Beer (Pre-order) | Food & Cookery | Phaidon Store</h1><p>The debut book by Danish gypsy brewer Jeppe Jarnit-Bjergsø of the bar Tørst, and Canadian chef Daniel Burns of the Michelin-starred restaurant Luksus-both in a shared space in Greenpoint, Brooklyn where they elevate beer to the level of wine in fine dining.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/31575c7cfa1e804906592cd13d57025c9b5bcd4a.jpg"></article>]]></description>
             <link>http://www.phaidon.com/store/food-cook/food-and-beer-9780714871059/</link>
             <guid isPermaLink="false">4487f340-49e5-49d2-94bc-b90eeea8dcaa</guid>
+            <pubDate>Sat, 06 Aug 2016 18:55:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Cuba on the Edge of Change]]></title>
+            <description><![CDATA[<article><h1>Cuba on the Edge of Change</h1><p>at times can feel like a nation abandoned. The aching disrepair of its cities, the untamed foliage of its countryside, the orphaned coastlines - a half-century of isolation has wrapped the country in decay. Yet few places in the world brim with as much life as Cuba, a contrast drawn sharper amid its faded grandeur.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/fadd80fef63f3704329bd8f3effa0b99/croprotate.jpg?cropheight=548&cropwidth=1050&degrees=0&input=https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fthe-grid-img%2Fp%2F196de034f71ac2612a2898c9ace08482d0e1afa6.jpg&x=0&y=0"></article>]]></description>
+            <link>http://www.nytimes.com/interactive/2016/03/19/world/americas/cuba-on-the-edge-of-change-photo-essay.html?_r=0</link>
+            <guid isPermaLink="false">065e7ed7-bc2f-4703-a226-6fdaa103ad46</guid>
             <pubDate>Sat, 06 Aug 2016 18:55:55 GMT</pubDate>
         </item>
     </channel>
