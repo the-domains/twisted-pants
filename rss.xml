@@ -4,8 +4,15 @@
         <description><![CDATA[My Creations]]></description>
         <link>https://thegrid.ai/twisted-pants/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 06 Aug 2016 21:27:28 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 06 Aug 2016 21:29:07 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/twisted-pants/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Looking underwater at Crystal Cove with No Mask]]></title>
+            <description><![CDATA[<iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2F_-pFo7qbBUY%3Ffeature%3Doembed&url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D_-pFo7qbBUY&image=https%3A%2F%2Fi.ytimg.com%2Fvi%2F_-pFo7qbBUY%2Fhqdefault.jpg&key=b7d04c9b404c499eba89ee7072e1c4f7&type=text%2Fhtml&schema=youtube" width="854" height="480" scrolling="no" frameborder="0" allowfullscreen></iframe>]]></description>
+            <link>https://www.youtube.com/watch?v=_-pFo7qbBUY</link>
+            <guid isPermaLink="false">cb716134-66b0-4aac-b3a6-012f0303e908</guid>
+            <pubDate>Sat, 06 Aug 2016 21:28:13 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Crystal Cove El Moro Bodyboarding]]></title>
             <description><![CDATA[<article><h1>Crystal Cove El Moro Bodyboarding</h1><p>A nice day bodyboarding at Crystal Cove El Moro</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/a9fa2ee0801e4c88af50c8ec55c5fa67/noop.jpg?input=https%3A%2F%2Fimg.youtube.com%2Fvi%2F6KVQpsqg7-Y%2Fmaxresdefault.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>https://www.youtube.com/watch?v=-oz1C5_b1Jg</link>
             <guid isPermaLink="false">203b7a9e-c246-4579-b760-da1289d12160</guid>
             <pubDate>Sat, 06 Aug 2016 20:56:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Pirak Remodel]]></title>
-            <description><![CDATA[<article><h1>The Pirak Remodel</h1><p>My custom painted Kayak, a renewal of the paint</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/aeb45dabdb903e6369532fe2fd11ee54/noop.jpg?input=https%3A%2F%2Fimg.youtube.com%2Fvi%2FT2CRMOl-Xm8%2Fmaxresdefault.jpg"></article>]]></description>
-            <link>https://www.youtube.com/watch?v=T2CRMOl-Xm8</link>
-            <guid isPermaLink="false">a3043d12-f2e7-4b8a-9422-15f70f3e4ef5</guid>
-            <pubDate>Sat, 06 Aug 2016 20:30:06 GMT</pubDate>
         </item>
     </channel>
 </rss>
