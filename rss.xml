@@ -4,8 +4,15 @@
         <description><![CDATA[My Creations]]></description>
         <link>https://thegrid.ai/twisted-pants/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 06 Aug 2016 20:57:54 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 06 Aug 2016 20:57:59 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/twisted-pants/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Big Wake Jump]]></title>
+            <description><![CDATA[<article><h1>Big Wake Jump</h1><p>Boat wake jump on seadoo</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/3da38305995c03212927f8486e84b83d/noop.jpg?input=https%3A%2F%2Fimg.youtube.com%2Fvi%2FpYJTT5x8gVA%2Fmaxresdefault.jpg"></article>]]></description>
+            <link>https://www.youtube.com/watch?v=pYJTT5x8gVA</link>
+            <guid isPermaLink="false">eedafc6d-471e-4cae-99c4-488f138dfb7f</guid>
+            <pubDate>Sat, 06 Aug 2016 20:57:57 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Snorkeling the reefs of Crystal Cove]]></title>
             <description><![CDATA[<article><h1>Snorkeling the reefs of Crystal Cove</h1><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/f1df669b300344abf9c7bc06cd001958/noop.jpg?input=https%3A%2F%2Fimg.youtube.com%2Fvi%2FhEucOwoBbq8%2Fmaxresdefault.jpg"></article>]]></description>
@@ -42,17 +49,17 @@
             <pubDate>Sat, 06 Aug 2016 18:55:55 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Cuba on the Edge of Change]]></title>
-            <description><![CDATA[<article><h1>Cuba on the Edge of Change</h1><p>at times can feel like a nation abandoned. The aching disrepair of its cities, the untamed foliage of its countryside, the orphaned coastlines - a half-century of isolation has wrapped the country in decay. Yet few places in the world brim with as much life as Cuba, a contrast drawn sharper amid its faded grandeur.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/fadd80fef63f3704329bd8f3effa0b99/croprotate.jpg?cropheight=548&cropwidth=1050&degrees=0&input=https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fthe-grid-img%2Fp%2F196de034f71ac2612a2898c9ace08482d0e1afa6.jpg&x=0&y=0"></article>]]></description>
-            <link>http://www.nytimes.com/interactive/2016/03/19/world/americas/cuba-on-the-edge-of-change-photo-essay.html?_r=0</link>
-            <guid isPermaLink="false">065e7ed7-bc2f-4703-a226-6fdaa103ad46</guid>
-            <pubDate>Sat, 06 Aug 2016 18:55:55 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Food & Beer (Pre-order) | Food & Cookery | Phaidon Store]]></title>
             <description><![CDATA[<article><h1>Food & Beer (Pre-order) | Food & Cookery | Phaidon Store</h1><p>The debut book by Danish gypsy brewer Jeppe Jarnit-Bjergsø of the bar Tørst, and Canadian chef Daniel Burns of the Michelin-starred restaurant Luksus-both in a shared space in Greenpoint, Brooklyn where they elevate beer to the level of wine in fine dining.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/31575c7cfa1e804906592cd13d57025c9b5bcd4a.jpg"></article>]]></description>
             <link>http://www.phaidon.com/store/food-cook/food-and-beer-9780714871059/</link>
             <guid isPermaLink="false">4487f340-49e5-49d2-94bc-b90eeea8dcaa</guid>
+            <pubDate>Sat, 06 Aug 2016 18:55:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Cuba on the Edge of Change]]></title>
+            <description><![CDATA[<article><h1>Cuba on the Edge of Change</h1><p>at times can feel like a nation abandoned. The aching disrepair of its cities, the untamed foliage of its countryside, the orphaned coastlines - a half-century of isolation has wrapped the country in decay. Yet few places in the world brim with as much life as Cuba, a contrast drawn sharper amid its faded grandeur.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/fadd80fef63f3704329bd8f3effa0b99/croprotate.jpg?cropheight=548&cropwidth=1050&degrees=0&input=https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fthe-grid-img%2Fp%2F196de034f71ac2612a2898c9ace08482d0e1afa6.jpg&x=0&y=0"></article>]]></description>
+            <link>http://www.nytimes.com/interactive/2016/03/19/world/americas/cuba-on-the-edge-of-change-photo-essay.html?_r=0</link>
+            <guid isPermaLink="false">065e7ed7-bc2f-4703-a226-6fdaa103ad46</guid>
             <pubDate>Sat, 06 Aug 2016 18:55:55 GMT</pubDate>
         </item>
         <item>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>A Disney space station? It no longer seems like such a goofy idea</h1><p>Throughout our planet's space-faring history, there have been two major impediments to putting a lot of private citizens into orbit. Only governments have had spacecraft, and there have been only a few, government-controlled, space stations to visit. But now that may finally changing in a big way.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d83d67a7d53a5e25e15266ea03dab94cba53ee33.jpg"></article>]]></description>
             <link>http://arstechnica.com/science/2016/04/a-disney-space-station-it-no-longer-seems-like-such-a-goofy-idea/</link>
             <guid isPermaLink="false">9d4c2ffc-8c4a-4f54-928c-2c26d78ee7aa</guid>
-            <pubDate>Sat, 06 Aug 2016 18:55:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Most Beautiful Mountains in the World]]></title>
-            <description><![CDATA[<article><h1>The Most Beautiful Mountains in the World</h1><p>Because the odds are slim we'll ever strap on a pair of crampons and/or buy a "Teamwork" Successories poster, we thought it'd be&hellip;</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/1b496619db57b77afcb89aef920994ac6e50e5fe.jpg"></article>]]></description>
-            <link>https://www.thrillist.com/travel/nation/the-most-beautiful-mountains-in-the-world/travel</link>
-            <guid isPermaLink="false">70d9b7de-4a6e-4894-894e-439894408ca2</guid>
             <pubDate>Sat, 06 Aug 2016 18:55:55 GMT</pubDate>
         </item>
     </channel>
