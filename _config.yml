@@ -12,6 +12,9 @@ color:
     - '#A2E3C4'
 layout_spectrum: 0.26129320822656155
 name: James V
-navigation: []
+navigation:
+  - name: 'Crystal Cove '
+    id: cb716134-66b0-4aac-b3a6-012f0303e908
+    type: content
 title: My Creations
 description: Check it out
