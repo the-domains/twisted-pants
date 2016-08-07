@@ -12,9 +12,6 @@ color:
     - '#A2E3C4'
 layout_spectrum: 0.26129320822656155
 name: James V
-navigation:
-  - name: Custom Painted Stand Up Paddle board
-    id: a5f690c4-51c9-4d8f-8e46-93e7ff83793d
-    type: content
+navigation: []
 title: My Creations
 description: Check it out
