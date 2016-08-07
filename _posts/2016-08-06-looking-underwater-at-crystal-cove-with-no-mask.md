@@ -12,16 +12,14 @@ publisher:
 keywords: []
 description: ''
 app_links: []
-isBasedOnUrl: 'https://www.youtube.com/watch?v=_-pFo7qbBUY'
 title: Looking underwater at Crystal Cove with No Mask
-datePublished: '2016-08-06T21:28:13.144Z'
-dateModified: '2016-08-06T21:28:09.746Z'
+datePublished: '2016-08-07T04:34:14.499Z'
+dateModified: '2016-08-07T04:34:13.881Z'
 via: {}
-starred: false
 sourcePath: _posts/2016-08-06-looking-underwater-at-crystal-cove-with-no-mask.md
-inFeed: true
-hasPage: false
-inNav: false
+hasPage: true
+starred: false
+url: looking-underwater-at-crystal-cove-with-no-mask/index.html
 _type: VideoObject
 _context: 'http://schema.org'
 
