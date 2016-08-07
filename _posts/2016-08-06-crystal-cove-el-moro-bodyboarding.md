@@ -59,16 +59,14 @@ app_links:
     package: '544007664'
     namespace: google
     type: ios
-isBasedOnUrl: 'https://www.youtube.com/watch?v=6KVQpsqg7-Y'
 title: Crystal Cove El Moro Bodyboarding
-datePublished: '2016-08-06T21:27:26.399Z'
-dateModified: '2016-08-06T21:13:13.931Z'
+datePublished: '2016-08-07T04:35:05.085Z'
+dateModified: '2016-08-07T04:35:04.519Z'
 via: {}
-starred: false
 sourcePath: _posts/2016-08-06-crystal-cove-el-moro-bodyboarding.md
-inFeed: true
-hasPage: false
-inNav: false
+hasPage: true
+starred: false
+url: crystal-cove-el-moro-bodyboarding/index.html
 _type: VideoObject
 _context: 'http://schema.org'
 
